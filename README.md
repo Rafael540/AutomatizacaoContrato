@@ -1,5 +1,5 @@
 
-````markdown
+
 # 📄 Sistema de Processamento de Contratos com Parcelamento em Java
 
 Este projeto simula um sistema de geração de parcelas a partir de um contrato, aplicando regras de juros e taxas definidas por um serviço de pagamento (ex: PayPal). Desenvolvido em Java, o sistema aplica conceitos de programação orientada a objetos e boas práticas como injeção de dependência e uso de interfaces.
