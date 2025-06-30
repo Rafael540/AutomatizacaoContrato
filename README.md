@@ -1,6 +1,3 @@
-Claro! Aqui está o `README.md` completo com **descrição do projeto**, **estrutura**, **tecnologias** e as **instruções de execução** para você usar no GitHub:
-
----
 
 ````markdown
 # 📄 Sistema de Processamento de Contratos com Parcelamento em Java
@@ -87,7 +84,4 @@ Parcelas:
 
 ---
 
-```
-
-Se quiser, posso gerar esse arquivo para você e te orientar a subir no seu repositório com o Git. É só me avisar se deseja isso em [formato Markdown `.md`](f) ou mesmo colado direto no repositório.
 ```
